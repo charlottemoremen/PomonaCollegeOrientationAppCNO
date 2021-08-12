@@ -1,0 +1,33 @@
+#Constants {
+    /* includeNativeBool: true; */
+    background: blue;
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url(Quicksand-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: "QuicksandBold";
+    src: url(Quicksand-Bold.ttf);
+}
+
+
+TextArea {
+      font-family: "QuicksandBold";
+    color: #194190;
+}
+
+Button {
+      font-family: "Quicksand";
+    color: #194190;
+    background-color: white;
+}
+
+Form {
+font-family: "Quicksand";
+    color: #194190;
+}
+

@@ -1,0 +1,184 @@
+{
+  "orientationSchedule": [
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Set up check-in",
+      "Date": "8/24/21",
+      "Time": "7:00 AM",
+      "Location": "Oldenborg",
+      "eventID": "1"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "First-Year check-in",
+      "Date": "8/24/21",
+      "Time": "8:00AM-11:00AM",
+      "eventID": "2"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "OTeam lunch",
+      "Date": "8/24/21",
+      "Time": "11:00 AM",
+      "Location": "Frary",
+      "eventID": "3"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "First-Year check-in (second wave)",
+      "Date": "8/24/21",
+      "Time": "11:45 AM -3:00 PM",
+      "eventID": "4"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Clean up check-in",
+      "Date": "8/24/21",
+      "Time": "3:00 PM",
+      "eventID": "5"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Direct students to Little Bridges",
+      "Date": "8/24/21",
+      "Time": "3:30 PM",
+      "eventID": "6"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Welcome to Pomona session  for First Years (stick around after to help lost students)",
+      "Date": "8/24/21",
+      "Time": "4:00 PM",
+      "Location": "Little Bridges",
+      "eventID": "7"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Dinner",
+      "Date": "8/24/21",
+      "Time": "5:00 PM",
+      "Location": "Frary",
+      "eventID": "8"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Set up lights/music for ice cream socials",
+      "Date": "8/24/21",
+      "Time": "6:00 PM",
+      "Location": "Courtyards of Harwood and Mudd-Blaisdell, Harwood BBQ",
+      "eventID": "9"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Set up check-in",
+      "Date": "8/25/21",
+      "Time": "7:00 AM",
+      "Location": "Oldenborg",
+      "eventID": "10"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Second-Year check in",
+      "Date": "8/25/21",
+      "Time": "8:00AM-11:00 AM",
+      "eventID": "11"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Direct First-Years to Little Bridges",
+      "Date": "8/25/21",
+      "Time": "9:45 AM",
+      "eventID": "12"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Help First-Years in Little Bridges",
+      "Date": "8/25/21",
+      "Time": "10:00AM ",
+      "Location": "Little Bridges",
+      "eventID": "13"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Lunch",
+      "Date": "8/25/21",
+      "Time": "11:00 AM",
+      "Location": "Frary",
+      "eventID": "14"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Second-Year check in (second wave)",
+      "Date": "8/25/21",
+      "Time": "12:00 PM-3:00PM",
+      "Location": "Oldenborg",
+      "eventID": "15"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Help direct First-Years to compassion activity locations",
+      "Date": "8/25/21",
+      "Time": "1:30 PM",
+      "eventID": "16"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "First-Year campus tours",
+      "Date": "8/25/21",
+      "Time": "3:30PM-5:30PM",
+      "eventID": "17"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Direct Second-Years to Little Bridges",
+      "Date": "8/25/21",
+      "Time": "3:45PM",
+      "eventID": "18"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Welcome to Pomona Session for Second-Years ",
+      "Date": "8/25/21",
+      "Time": "4:00PM",
+      "Location": "Little Bridges",
+      "eventID": "19"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Dinner (when available)",
+      "Date": "8/25/21",
+      "Time": "5:00PM-7PM",
+      "Location": "Frary",
+      "eventID": "20"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Direct First-Years Starr house back entrance, general crowd control",
+      "Date": "8/25/21",
+      "Time": "5:15PM-7:15PM",
+      "Location": "Starr House",
+      "eventID": "21"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Set up sound systems and ice breakers for Second-Years",
+      "Date": "8/25/21",
+      "Time": "6:00 PM",
+      "eventID": "22"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Run ice breakers for Second-Years, set up evening social activities",
+      "Date": "8/25/21",
+      "Time": "7:00 PM",
+      "eventID": "23"
+    },
+    {
+      "Calendar ": "OTeam",
+      "eventName": "Run and clean up evening social activites ",
+      "Date": "8/25/21",
+      "Time": "8:00PM-11:00PM",
+      "eventID": "24"
+    }
+  ]
+}

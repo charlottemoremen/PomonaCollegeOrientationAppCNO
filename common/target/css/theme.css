@@ -1,0 +1,37 @@
+
+/* /Users/charlottemoremen/IdeaProjects/pomonacollegeorientationapp/common/src/main/css/theme.css */
+#Constants {
+    /* includeNativeBool: true; */
+    background: blue;
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url("cn1-merged-files/6a1b35ceadefb48e5184b0fee26729ce/Quicksand-Regular.ttf");
+}
+
+
+@font-face {
+    font-family: "QuicksandBold";
+    src: url("cn1-merged-files/6a1b35ceadefb48e5184b0fee26729ce/Quicksand-Bold.ttf");
+}
+
+
+TextArea {
+      font-family: "QuicksandBold";
+    color: #194190;
+}
+
+Button {
+      font-family: "Quicksand";
+    color: #194190;
+    background-color: white;
+}
+
+Form {
+font-family: "Quicksand";
+    color: #194190;
+}
+
+
+/* end /Users/charlottemoremen/IdeaProjects/pomonacollegeorientationapp/common/src/main/css/theme.css*/
